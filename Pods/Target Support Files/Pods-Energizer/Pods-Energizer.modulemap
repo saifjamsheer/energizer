@@ -1,0 +1,6 @@
+framework module Pods_Energizer {
+  umbrella header "Pods-Energizer-umbrella.h"
+
+  export *
+  module * { export * }
+}

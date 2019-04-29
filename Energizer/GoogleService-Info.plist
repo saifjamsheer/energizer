@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>97335624664-usq2tnfcn7ad3t0tq9od9kd1tt9e1oib.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.97335624664-usq2tnfcn7ad3t0tq9od9kd1tt9e1oib</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBee64JDBL9fDhRfIYauAko6f8zgaYRoj4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>97335624664</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jlr.cta.energizer</string>
+	<key>PROJECT_ID</key>
+	<string>energizer-5a7fb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>energizer-5a7fb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:97335624664:ios:1cc0ef1174551169</string>
+	<key>DATABASE_URL</key>
+	<string>https://energizer-5a7fb.firebaseio.com</string>
+</dict>
+</plist>
