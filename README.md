@@ -1,5 +1,5 @@
 # Energizer
-### Analytics and Navigation for Electrical Vehicles
+### Analytics and Route Planning for Electrical Vehicles
 
 Developing an application that would allow users to locate and navigate to vehicle charging stations, whilst providing them with detailed analytics on the state of their vehicle throughout.
 
@@ -10,7 +10,7 @@ The application, in its current state, can do the following:
 * Displays all the nearby charging stations within the vehicle’s range.
 * Allow users to add certain stations to their favorites list, which could then be accessed in the main tab.
 * When clicking on a station, the user is able to see how far away they are from the station, whether the station is favorited or not, the address of the station, and any nearby attractions. 
-* Allow users to start the navigation process to a station on the click of a button.
+* Plans a route based on the state of charge of the vehicle's battery.
 * Allows users to access a filter menu that allows them to search for stations that match a certain criteria.
 * Determine which stations are compatible with their vehicle and which are not.
 * Allow users to access a tab that displays their detailed analytics on their vehicle. 
