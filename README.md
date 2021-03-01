@@ -15,9 +15,3 @@ The application, in its current state, can do the following:
 * Determine which stations are compatible with their vehicle and which are not.
 * Allow users to access a tab that displays their detailed analytics on their vehicle. 
 * Allow users to navigate to a settings tab that allows them to log out and switch between a day and night theme.
-
-This project displays proficiency in the following areas:
-* UI Design & Development (using Adobe XD & Swift)
-* Backend Development (using Firebase & Swift)
-* Data Analysis
-* APIs and Data Mining
